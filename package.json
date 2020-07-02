@@ -1,6 +1,6 @@
 {
   "name": "@aacassandra/jquery.pwstrength",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "PWStrength is a jQuery plugin to indicate the strength of passwords.",
   "publishConfig": {
     "access": "public"
